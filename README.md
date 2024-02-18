@@ -53,4 +53,4 @@ For more information on contributing to this repo, please read [the contribution
 
 ### Other eShops
 
-For a closely related version of this app that is not Azure specific, please view [the dotnet/eShop](https://github.com/dotnet/eshop) repo. These two repos share some common code.
+For a closely related version of this app that is not Azure specific, please view [the dotnet/eShop][(https://github.com/dotnet/eshop](https://github.com/CSA-DanielVillamizar/eShop-main)https://github.com/CSA-DanielVillamizar/eShop-main) repo. These two repos share some common code.
